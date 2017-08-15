@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"修改了一万次了还是不行就很难");
+    NSLog(@"提交一个修改");
 }
 
 
